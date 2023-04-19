@@ -1,0 +1,32 @@
+# Chorus wave power in pT^2 for 21 <= MLT < 3, Kp >= 5 for TS04D and Olson-Pfitzer (OP77Q) magnetic field models, as shown in Figure 1d 
+# L*, TS04D Wave Power, OP77Q Wave Power
+0.1,nan,nan
+0.3,nan,nan
+0.5,nan,nan
+0.7,nan,nan
+0.9,nan,nan
+1.1,nan,nan
+1.3,nan,nan
+1.5,nan,nan
+1.7,nan,nan
+1.9,nan,nan
+2.1,nan,nan
+2.3,nan,nan
+2.5,nan,nan
+2.7,nan,nan
+2.9,1.5392e+03,nan
+3.1,1.8063e+03,1.1148e+03
+3.3,7.1803e+02,1.6862e+03
+3.5,8.9809e+02,1.1642e+03
+3.7,1.3911e+03,1.0505e+03
+3.9,1.8028e+03,1.2521e+03
+4.1,3.6905e+03,2.1759e+03
+4.3,6.2533e+03,4.8930e+03
+4.5,3.1539e+03,5.2869e+03
+4.7,2.5090e+03,3.0714e+03
+4.9,1.3286e+03,1.7558e+03
+5.1,2.6689e+03,2.9170e+03
+5.3,5.3540e+02,3.6676e+03
+5.5,1.3782e+03,1.7515e+03
+5.7,nan,2.9375e+03
+5.9,nan,nan
